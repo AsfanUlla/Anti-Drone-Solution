@@ -1,2 +1,1 @@
-# ADS
-Anti drone Solution for wifi based drones
+Run <pre>npm install ar-drone</pre> in this directory
